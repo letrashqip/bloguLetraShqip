@@ -4,7 +4,7 @@ Këtë muaj në katalogun e LetraShqip shtohen tre libra: një roman i shkurtër
 
 Më poshtë gjeni tre titujt dhe përmbledhje për lexuesit tanë.
 
-![Tre libra në katalog: Doktor Gjilpëra, Baba Tomorri dhe Pushtimi i lumturisë](images/01-risqet.webp)
+![Tre libra në katalog: Doktor Gjilpëra, Baba Tomorri dhe Pushtimi i lumturisë](images/01-libra-te-reja.webp)
 
 ## Këtë muaj
 

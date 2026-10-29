@@ -4,7 +4,7 @@ Three books join the LetraShqip catalog this month: a short novel by Faik Konica
 
 Below are the three titles and a summary for our readers.
 
-![Three books in the catalog: Doktor Gjilpëra, Baba Tomorri and Pushtimi i lumturisë](images/01-risqet.webp)
+![Three books in the catalog: Doktor Gjilpëra, Baba Tomorri and Pushtimi i lumturisë](images/01-libra-te-reja.webp)
 
 ## This month
 
