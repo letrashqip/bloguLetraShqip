@@ -2,7 +2,7 @@
 
 Leximi nuk ndodh gjithmonë para një ekrani të qetë. Ndonjëherë jemi në rrugë, duke përgatitur darkën, ose duam t’u japim syve një pushim. Funksioni **Lexim me zë** i LetraShqip e bën bibliotekën tuaj të dëgjueshme, pa hequr dorë nga gjuha shqipe.
 
-Për artikujt e blogut dhe për librat e përputhshëm, mund të zgjidhni butonin “Dëgjo artikullin”. Platforma përdor zërin Drita, të përgatitur për shqiptimin e tingujve, emrave dhe shenjave të pikësimit në shqip. Teksti përpunohet në pajisjen tuaj dhe modeli ruhet në memorien lokale pas shkarkimit të parë, kështu që nisjet e ardhshme janë më të shpejta.
+Në krye të çdo artikulli të blogut gjeni luajtësin “Dëgjo me Drita”: shtypni butonin e luajtjes dhe ndiqni përparimin në shirit, ku mund të kaloni edhe në një pjesë tjetër të tekstit. Edhe librat e përputhshëm kanë opsionin e dëgjimit. Platforma përdor zërin Drita, të përgatitur për shqiptimin e tingujve, emrave dhe shenjave të pikësimit në shqip. Teksti përpunohet në pajisjen tuaj dhe modeli ruhet në memorien lokale pas shkarkimit të parë, kështu që nisjet e ardhshme janë më të shpejta.
 
 ## Një ritëm që përshtatet me ditën
 
@@ -12,4 +12,4 @@ Leximi me zë është veçanërisht i dobishëm për nxënësit që duan të lid
 
 ## Filloni thjesht
 
-Hyni në llogarinë tuaj, hapni një artikull ose një libër dhe zgjidhni opsionin e dëgjimit kur ai është i disponueshëm. Mund ta ndaloni dëgjimin në çdo kohë dhe të ktheheni te teksti. Qëllimi është i thjeshtë: më shumë kohë me idetë dhe tregimet që ju interesojnë.
+Për artikujt e blogut nuk ju duhet llogari: hapni një artikull dhe shtypni butonin e luajtjes. Për librat, hyni në llogarinë tuaj, hapni librin dhe zgjidhni opsionin e dëgjimit kur ai është i disponueshëm. Mund ta ndaloni dëgjimin në çdo kohë dhe të ktheheni te teksti. Qëllimi është i thjeshtë: më shumë kohë me idetë dhe tregimet që ju interesojnë.
